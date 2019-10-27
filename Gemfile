@@ -70,3 +70,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # rails01で追加したgem
 gem 'jquery-rails'
+
+# rails02で追加したgem
+gem 'bootstrap-sass'
