@@ -73,3 +73,6 @@ gem 'jquery-rails'
 
 # rails02で追加したgem
 gem 'bootstrap-sass'
+
+# rails04で追加したgem
+gem 'bcrypt'
